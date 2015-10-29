@@ -1,0 +1,2 @@
+This file is sample file for upload test.
+このファイルはアップロードテスト用のサンプルファイルです。
