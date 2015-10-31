@@ -27,5 +27,5 @@ func main() {
 }
 
 func init() {
-	db, _ := gorm.Open("mysql", "user:pass@/practice_go_mvc?charset=utf8&parseTime=True")
+	db, _ = gorm.Open("mysql", "user:pass@/practice_go_mvc?charset=utf8&parseTime=True")
 }
