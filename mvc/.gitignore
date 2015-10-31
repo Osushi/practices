@@ -27,3 +27,7 @@ _testmain.go
 .*.swp
 tmp/*
 golang-goji-sample
+
+# Library
+github.com
+gopkg.in
