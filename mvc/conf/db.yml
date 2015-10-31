@@ -1,13 +1,13 @@
 driver: mysql
 development:
-user: user
-password: pass
-db: practice_go_mvc
+  user: user
+  password: pass
+  db: practice_go_mvc
 production:
-user: user
-password: pass
-db: practice_go_mvc
+  user: user
+  password: pass
+  db: practice_go_mvc
 test:
-user: user
-password: "pass"
-db: practice_go_mvc
+  user: user
+  password: pass
+  db: practice_go_mvc
